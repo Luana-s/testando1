@@ -6,6 +6,11 @@
     <script src="https://kit.fontawesome.com/1ab94d0eba.js" crossorigin="anonymous"></script>
     <title>Login</title>
     <link rel="stylesheet" href="estilo1.css" >
+    <center>
+        <h1 style="color:bisque"> <b> FAQ UFAL</b></h1> 
+        <img src="mini.png"
+        whidth"=450px">
+    </center>
 </head>
 <body>
     <main class="container">
@@ -23,6 +28,12 @@
             </div>
             
             <input type="submit" value="Continue">
+
+            <div class="input-field">
+                <input type="conta" name="conta" id="conta"
+                   placeholder="Criar conta">
+                   <div class="underline"></div>
+            </div>
         </form>
         <div class="footer">
             <span>Ou conecte-se às redes sociais</span>
